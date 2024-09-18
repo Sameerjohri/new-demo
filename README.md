@@ -1,4 +1,4 @@
 # new-demo
 This is my first  Git Repository
-<hr>
+<br>
 Author Name - Sameer Johri.
